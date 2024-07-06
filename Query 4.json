@@ -1,0 +1,502 @@
+[
+  {
+    "number_courses": "3",
+    "time_study": "4.508",
+    "Marks": "19.202"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "0.096",
+    "Marks": "7.734"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "3.133",
+    "Marks": "13.811"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "7.909",
+    "Marks": "53.018"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "7.811",
+    "Marks": "55.299"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "3.211",
+    "Marks": "17.822"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "6.063",
+    "Marks": "29.889"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "3.413",
+    "Marks": "17.264"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "4.41",
+    "Marks": "20.348"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "6.173",
+    "Marks": "30.862"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "7.353",
+    "Marks": "42.036"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "0.423",
+    "Marks": "12.132"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "4.218",
+    "Marks": "24.318"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "4.274",
+    "Marks": "17.672"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "2.908",
+    "Marks": "11.397"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "4.26",
+    "Marks": "19.466"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "5.719",
+    "Marks": "30.548"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "6.08",
+    "Marks": "38.49"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "7.711",
+    "Marks": "50.986"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "3.977",
+    "Marks": "25.133"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "4.733",
+    "Marks": "22.073"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "6.126",
+    "Marks": "35.939"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "2.051",
+    "Marks": "12.209"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "4.875",
+    "Marks": "28.043"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "3.635",
+    "Marks": "16.517"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "1.407",
+    "Marks": "6.623"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "0.508",
+    "Marks": "12.647"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "4.378",
+    "Marks": "26.532"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "0.156",
+    "Marks": "9.333"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "1.299",
+    "Marks": "8.837"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "3.864",
+    "Marks": "24.172"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "1.923",
+    "Marks": "8.1"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "0.932",
+    "Marks": "15.038"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "6.594",
+    "Marks": "39.965"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "4.083",
+    "Marks": "17.171"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "7.543",
+    "Marks": "43.978"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "2.966",
+    "Marks": "13.119"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "7.283",
+    "Marks": "46.453"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "6.533",
+    "Marks": "41.358"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "7.775",
+    "Marks": "51.142"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "0.14",
+    "Marks": "7.336"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "2.754",
+    "Marks": "15.725"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "3.591",
+    "Marks": "19.771"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "1.557",
+    "Marks": "10.429"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "1.954",
+    "Marks": "9.742"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "2.061",
+    "Marks": "8.924"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "3.797",
+    "Marks": "16.703"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "4.779",
+    "Marks": "22.701"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "5.635",
+    "Marks": "26.882"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "3.913",
+    "Marks": "19.106"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "6.703",
+    "Marks": "40.602"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "4.13",
+    "Marks": "22.184"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "0.771",
+    "Marks": "7.892"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "6.049",
+    "Marks": "36.653"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "7.591",
+    "Marks": "53.158"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "2.913",
+    "Marks": "18.238"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "7.641",
+    "Marks": "53.359"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "7.649",
+    "Marks": "51.583"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "6.198",
+    "Marks": "31.236"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "7.468",
+    "Marks": "51.343"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "0.376",
+    "Marks": "10.522"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "2.438",
+    "Marks": "10.844"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "3.606",
+    "Marks": "19.59"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "4.869",
+    "Marks": "21.379"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "0.13",
+    "Marks": "12.591"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "2.142",
+    "Marks": "13.562"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "5.473",
+    "Marks": "27.569"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "0.55",
+    "Marks": "6.185"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "1.395",
+    "Marks": "8.92"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "3.948",
+    "Marks": "21.4"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "3.736",
+    "Marks": "16.606"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "2.518",
+    "Marks": "13.416"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "4.633",
+    "Marks": "20.398"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "1.629",
+    "Marks": "7.014"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "6.954",
+    "Marks": "39.952"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "0.803",
+    "Marks": "6.217"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "6.379",
+    "Marks": "36.746"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "5.985",
+    "Marks": "38.278"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "7.451",
+    "Marks": "49.544"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "0.805",
+    "Marks": "6.349"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "7.957",
+    "Marks": "54.321"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "2.262",
+    "Marks": "17.705"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "7.41",
+    "Marks": "44.099"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "3.197",
+    "Marks": "16.106"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "1.982",
+    "Marks": "16.461"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "6.201",
+    "Marks": "39.957"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "4.067",
+    "Marks": "23.149"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "1.033",
+    "Marks": "6.053"
+  },
+  {
+    "number_courses": "5",
+    "time_study": "1.803",
+    "Marks": "11.253"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "6.376",
+    "Marks": "40.024"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "4.182",
+    "Marks": "24.394"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "2.73",
+    "Marks": "19.564"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "5.027",
+    "Marks": "23.916"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "6.471",
+    "Marks": "42.426"
+  },
+  {
+    "number_courses": "8",
+    "time_study": "3.919",
+    "Marks": "24.451"
+  },
+  {
+    "number_courses": "6",
+    "time_study": "3.561",
+    "Marks": "19.128"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "0.301",
+    "Marks": "5.609"
+  },
+  {
+    "number_courses": "4",
+    "time_study": "7.163",
+    "Marks": "41.444"
+  },
+  {
+    "number_courses": "7",
+    "time_study": "0.309",
+    "Marks": "12.027"
+  },
+  {
+    "number_courses": "3",
+    "time_study": "6.335",
+    "Marks": "32.357"
+  }
+]
